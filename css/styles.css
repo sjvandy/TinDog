@@ -110,18 +110,18 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #ff4c68;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #ef8172;
 }
 
 /* Testimonial Section */
 
 #testimonials {
-  background-color: #ef8172;
+  background-color: #ff4c68;
 }
 
 .testimonial-text {
@@ -137,7 +137,7 @@ p {
 
 
 #press {
-  background-color: #ef8172;
+  background-color: #ff4c68;
   padding-bottom: 3%;
 }
 
